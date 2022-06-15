@@ -3,9 +3,9 @@
 
 - 🔥 Jr Front-end Developer 
 
-- 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/pt/)
+- 🔭 I’m currently working at [Maeztra](https://maeztra.com/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Sass, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
