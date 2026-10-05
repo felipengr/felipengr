@@ -12,8 +12,8 @@
 <img src="./assets/cta.svg" width="100%" alt="Let's build something useful." />
 
 <p>
-  <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio_↗-0f141c?style=for-the-badge&labelColor=0f141c&color=0f141c&logoColor=58a6ff" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn_↗-0f141c?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://www.nogueiradev.com.br/"><img src="https://img.shields.io/badge/Portfolio_↗-0f141c?style=for-the-badge&labelColor=0f141c&color=0f141c&logoColor=58a6ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nogueirafelipe94/"><img src="https://img.shields.io/badge/LinkedIn_↗-0f141c?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
   <a href="mailto:felipenogueira.94@gmail.com"><img src="https://img.shields.io/badge/Email_↗-0f141c?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
 </p>
 
