@@ -1,55 +1,20 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/felipengr/felipengr/master/hi.gif" width="30px">, I'm Felipe Nogueira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipengr&color=yellow" alt="Profile views" /> </p>
+<!-- Header + hero -->
+<img src="./assets/hero.svg" width="100%" alt="Hi, I'm Felipe Nogueira — Senior Front-end / Full Stack Developer building fast, scalable commerce and mobile experiences. React, Next.js, TypeScript, React Native, VTEX, Node.js." />
 
-- 🔥 Senior Front-end Developer 
+<img src="./assets/about.svg" width="100%" alt="About me and what I'm focused on right now" />
 
-- 🔭 I’m currently working at [Maeztra](https://maeztra.com/)
+<img src="./assets/stack.svg" width="100%" alt="Tech stack — Frontend: React, Next.js, TypeScript, Preact, React Native, Tailwind, SCSS. Commerce: VTEX IO, FastStore, Deco.cx, Checkout UI, GraphQL. Backend & Platform: Node.js, Deno, REST APIs, AWS, Datadog, GitHub." />
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS, Sass, Node.JS**
+<img src="./assets/work.svg" width="100%" alt="Selected work: commerce storefronts, checkout experiences, mobile products" />
 
-- ⚡ Fun fact **Oneye 😜**
+<img src="./assets/snapshot.svg" width="100%" alt="Developer snapshot: front-end & commerce, React + TypeScript, based in São Paulo, Brazil, open to work" />
 
-<br><br>
+<img src="./assets/cta.svg" width="100%" alt="Let's build something useful." />
 
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/nogueirafelipe94/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-flpnogueira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/flpnogueira" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-flpnogueira-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p>
+  <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio_↗-0f141c?style=for-the-badge&labelColor=0f141c&color=0f141c&logoColor=58a6ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn_↗-0f141c?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="mailto:felipenogueira.94@gmail.com"><img src="https://img.shields.io/badge/Email_↗-0f141c?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
 </p>
 
-
-<!--
-**felipengr/felipengr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>felipengr • Reacting to problems with React since day one.</sub>
